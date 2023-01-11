@@ -9,7 +9,6 @@ from category.models import Category
 from store.models import Product
 
 
-
 # ElasticSearch "model" mapping out what fields to index
 @registry.register_document
 class CategoryDocument(Document):

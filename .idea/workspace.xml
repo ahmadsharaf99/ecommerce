@@ -4,6 +4,7 @@
     <list default="true" id="ecf6754c-45fb-486d-869d-f2617bafa8e8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ats_ecommerce/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ats_ecommerce/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search/documents.py" beforeDir="false" afterPath="$PROJECT_DIR$/search/documents.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +69,8 @@
       <updated>1673193029906</updated>
       <workItem from="1673193032227" duration="5604000" />
       <workItem from="1673334592025" duration="14093000" />
-      <workItem from="1673431201984" duration="846000" />
+      <workItem from="1673431201984" duration="4423000" />
+      <workItem from="1673447959401" duration="2670000" />
     </task>
     <servers />
   </component>

@@ -41,9 +41,9 @@ INSTALLED_APPS = [
     'orders.apps.OrdersConfig',
 
     # 3rd party apps
-    'storages',
-    'search',
-    'django_elasticsearch_dsl',
+    # 'storages',
+    # 'search',
+    # 'django_elasticsearch_dsl',
 ]
 
 ELASTICSEARCH_DSL = {
